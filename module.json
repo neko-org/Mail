@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Mail",
+    "author": "Fruit",
+    "description": "Type \"mail claim\" in proxy chat to claim your mail or \"mail readdel\" to make it delete mail after it claims/reads it.",
+    "options": {
+        "niceName": "Mail"
+    },
+    "servers": ["https://raw.githubusercontent.com/soler91/Mail/master/"],
+    "supportUrl": "https://github.com/soler91/Mail/issues"
+}
